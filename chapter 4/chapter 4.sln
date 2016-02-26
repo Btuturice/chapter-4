@@ -1,19 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chapter 4", "chapter 4\chapter 4.csproj", "{0D1C1A4D-D4A9-4915-A595-0EF4107E3BC7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sum", "chapter 4\sum.csproj", "{0D1C1A4D-D4A9-4915-A595-0EF4107E3BC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{0F858C91-C80D-4D0B-98CE-F766FD85E429}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "payrate", "ConsoleApplication1\payrate.csproj", "{0F858C91-C80D-4D0B-98CE-F766FD85E429}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication2", "ConsoleApplication2\ConsoleApplication2.csproj", "{E80AF443-C3A6-4805-A477-3E6353430DC7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vowel", "ConsoleApplication2\vowel.csproj", "{E80AF443-C3A6-4805-A477-3E6353430DC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication3", "ConsoleApplication3\ConsoleApplication3.csproj", "{BC05304D-81D1-4843-9736-15861885ABEE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multiplication", "ConsoleApplication3\multiplication.csproj", "{BC05304D-81D1-4843-9736-15861885ABEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication4", "ConsoleApplication4\ConsoleApplication4.csproj", "{F978C72D-0CF8-4ACE-8E9D-B697F8F351C1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "even numbers", "ConsoleApplication4\even numbers.csproj", "{F978C72D-0CF8-4ACE-8E9D-B697F8F351C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication5", "ConsoleApplication5\ConsoleApplication5.csproj", "{671442EF-94E6-484A-818E-038B700C3B6A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Table of squares", "ConsoleApplication5\Table of squares.csproj", "{671442EF-94E6-484A-818E-038B700C3B6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication6", "ConsoleApplication6\ConsoleApplication6.csproj", "{1C0FA58C-69FC-4DEE-B47A-3AA8F0D0486E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sum50", "ConsoleApplication6\sum50.csproj", "{1C0FA58C-69FC-4DEE-B47A-3AA8F0D0486E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

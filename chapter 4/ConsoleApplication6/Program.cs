@@ -9,15 +9,12 @@ namespace ConsoleApplication6
     {
         static void Main(string[] args)
         {
-            for (int y = 1; y <= 10; y++ )
+            int sum = 0;
+            for (int i = 1; i <= 50; i++)
             {
-                Console.Write(y + " ");
-                for (int x = 1; x <= 10; x++)
-                {
-                    Console.Write(" " + x*y + " ");
-                }
-                Console.WriteLine();
+                sum = sum + i;
             }
+            Console.WriteLine(sum);
         }
     }
 }

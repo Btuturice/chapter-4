@@ -9,14 +9,20 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            int sum = 0;
+            int input;
 
-             int input;
-             do
+            do
             {
                  Console.WriteLine("Enter any number!");
                  input = Convert.ToInt32(Console.ReadLine());
-             } while (input != 999);
                  
+                 
+
+             } while (input != 999);
+
+            Console.WriteLine("The sum is " + sum);
+             
          }
      }
 }
