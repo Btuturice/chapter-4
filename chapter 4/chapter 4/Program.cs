@@ -16,8 +16,11 @@ namespace ConsoleApplication1
             {
                  Console.WriteLine("Enter any number!");
                  input = Convert.ToInt32(Console.ReadLine());
-                 
-                 
+
+                 if (input == 999)
+                     break;
+
+                 sum = sum + input;
 
              } while (input != 999);
 
