@@ -9,12 +9,12 @@ namespace ConsoleApplication5
     {
         static void Main(string[] args)
         {
-            int sqaure;
+            int square;
             for (int x = 1; x <= 20; x++)
             {
                 Console.WriteLine("Integer: " + x);
                 square = x * x;
-                Console.WriteLine("Sqaure: " + sqaure);
+                Console.WriteLine("Sqaure: " + square);
             }
         }
     }
